@@ -9,8 +9,8 @@ __2. Skip-Gram__
 
 __3. Word2vec__
 
-__4. [Cove]__(https://arxiv.org/pdf/1708.00107.pdf)
+__4. [Cove](https://arxiv.org/pdf/1708.00107.pdf)__
 
-__5. [Elmo]__(https://arxiv.org/pdf/1802.05365.pdf)
+__5. [Elmo](https://arxiv.org/pdf/1802.05365.pdf)__
 
-__6. [BERT]__(https://arxiv.org/pdf/1810.04805.pdf)
+__6. [BERT](https://arxiv.org/pdf/1810.04805.pdf)__
